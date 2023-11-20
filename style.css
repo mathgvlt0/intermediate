@@ -4,10 +4,143 @@
   box-sizing: border-box;
 }
 
-body {
-  padding: 16px;
-}
-
 a{
   text-decoration: none;
+}
+
+h1{
+  padding:40px 190px 0px 24px;
+}
+
+.burger{
+  padding: 0px 24px 0px 327px;
+}
+
+.backroundImage{
+  background-image: url(assets/mobile/image-hero.jpg);
+  width: 100vw;
+  height: 200px;
+  flex-shrink: 0;
+  background-repeat: no-repeat;
+}
+
+.firstH2{
+  margin-left: 24px;
+  width: 327px;
+  font-size: 40px;
+}
+
+.FirstPara{
+  padding-top: 15px;
+  margin-left: 24px;
+  font-size: 15px;
+  width: 327px;
+  padding-bottom: 40px;
+}
+
+.firstA{
+  margin-left: 24px;
+  background-color: #F94F4F;
+  font-size: 18px;
+  color: white;
+  padding: 25px 41px 25px 41px;
+}
+
+.secondBackgroundImage{
+  margin-top: 100px;
+  background-image: url(assets/mobile/image-strategic.jpg);
+  width: 100vw;
+  height: 200px;
+  flex-shrink: 0;
+}
+
+.section2{
+  background-color: #191921;
+  width: 375px;
+  height: 377px;
+  flex-shrink: 0;
+}
+
+.SecondH2disign{
+  font-size: 32px;
+  color: #F94F4F;
+}
+
+.SecondH2{
+  font-size: 32px;
+  color: white;
+  padding: 72px 24px 24px 24px;
+}
+
+.paregraphInSecondH2{
+  font-size: 15px;
+  color: white;
+  width: 327px;
+  padding: 24px 24px 40px 24px;
+}
+
+.SecondA{
+  padding: 40px 248px 9px 24px;
+  font-size: 15px;
+  color: #F94F4F;
+  margin-bottom: 9px;
+  /* border-bottom: 9px 2px #F94F4F;² */
+}
+
+.SecondSection{
+  width: 375px;
+  height: 918px;
+  flex-shrink: 0;
+  background-color: #F94F4F;
+}
+
+.thirdH2{
+  font-size: 32px;
+  color: white;
+  padding: 96px 24px 49px 24px  ;
+}
+
+.num1{
+  font-size: 80px;
+  color: white;
+  opacity: 0.25;
+  padding: 49px 259px 0px 24px ;
+}
+
+.para1Opac{
+  font-size: 15px;
+  color: white;
+  margin: 15px 24px 40px 40px;
+}
+
+.num2{
+    font-size: 80px;
+  color: white;
+  opacity: 0.25;
+  margin-left: 24px;
+}
+
+.para2Opac{
+  font-size: 15px;
+  color: white;
+  margin: 15px 24px 40px 40px;
+}
+
+.num3{
+    font-size: 80px;
+  color: white;
+  opacity: 0.25;
+  margin-left: 24px;
+}
+
+.para3Opac{
+  font-size: 15px;
+  color: white;
+  margin: 15px 24px 40px 40px;
+}
+
+h3{
+  font-size: 15px;
+  color: white;
+  padding-left: 40px;
 }
